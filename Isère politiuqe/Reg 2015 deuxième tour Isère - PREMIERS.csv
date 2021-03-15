@@ -1,0 +1,533 @@
+﻿CODEDEP;Libellé de la commune;LUG;LUD;LFN;Premier
+38;Les Abrets;16,27;18,47;20,38;LFN
+38;Les Adrets;35,24;18,99;12,09;LUG
+38;Agnin;18,14;25,24;23,19;LUD
+38;L'Albenc;22,52;16,8;14,47;LUG
+38;Allemont;20,95;18,74;11,8;LUG
+38;Allevard;21,49;22,67;10,26;LUD
+38;Ambel;22,5;22,5;5;A
+38;Anjou;18,92;20,54;16,22;LUD
+38;Annoisin-Chatelans;16,96;25,33;20,7;LUD
+38;Anthon;17,17;19,44;22,73;LFN
+38;Aoste;14,18;17,33;23,76;LFN
+38;Apprieu;21,41;18,1;14,12;LUG
+38;Arandon;13,92;14,69;23,2;LFN
+38;Artas;16,84;17,34;21,61;LFN
+38;Arzay;15,95;28,22;27,61;LUD
+38;Assieu;19,44;20,14;19,84;LUD
+38;Auberives-en-Royans;18,06;25,69;17,01;LUD
+38;Auberives-sur-Varèze;18,07;15,2;17,59;LUG
+38;Auris;17,97;22,66;9,77;LUD
+38;Autrans;31,53;19,97;6,21;LUG
+38;Les Avenières;14,02;17,09;20,42;LFN
+38;Avignonet;19,21;36,95;11,33;LUD
+38;Balbins;16,37;26,9;15,5;LUD
+38;La Balme-les-Grottes;17,54;17,38;24,33;LFN
+38;Barraux;26,2;23,77;16,33;LUG
+38;La Bâtie-Divisin;13,27;20,41;22,74;LFN
+38;La Bâtie-Montgascon;19,32;18,98;22,36;LFN
+38;Beaucroissant;21,3;18,1;17,23;LUG
+38;Beaufin;19,44;22,22;8,33;LUD
+38;Beaufort;11,45;23,36;19,86;LUD
+38;Beaulieu;21,98;25,6;18,95;LUD
+38;Beaurepaire;22,09;17,47;17,36;LUG
+38;Beauvoir-de-Marc;16,58;20,66;22,07;LFN
+38;Beauvoir-en-Royans;27,71;14,46;27,71;A
+38;Bellegarde-Poussieu;20,39;18,7;19,35;LUG
+38;Belmont;12,46;15,36;23,48;LFN
+38;Bernin;27,06;25,87;9,71;LUG
+38;Besse;16,28;22,67;7,56;LUD
+38;Bessins;18,18;22,31;15,7;LUD
+38;Bévenais;23,35;21,15;15,93;LUG
+38;Bilieu;24,47;19,66;14,86;LUG
+38;Biol;16,33;25,26;21,65;LUD
+38;Biviers;25,4;33,59;8,34;LUD
+38;Bizonnes;14,88;21,71;25,12;LFN
+38;Blandin;17,86;33,93;20,54;LUD
+38;Bonnefamille;22,4;17,6;17,71;LUG
+38;Bossieu;12,83;27,17;23,02;LUD
+38;Le Bouchage;11,49;19,54;32,64;LFN
+38;Bougé-Chambalud;13,5;24,95;20,73;LUD
+38;Le Bourg-d'Oisans;17,68;18,47;13,52;LUD
+38;Bourgoin-Jallieu;19,19;18,62;11,95;LUG
+38;Bouvesse-Quirieu;16,93;17,53;17,83;LFN
+38;Brangues;22,36;18,34;21,36;LUG
+38;Bressieux;26,39;43,06;13,89;LUD
+38;Bresson;24,7;31,26;11,05;LUD
+38;Brézins;13,51;21,77;18,12;LUD
+38;Brié-et-Angonnes;19,63;27,85;16,55;LUD
+38;Brion;13,64;37,27;19,09;LUD
+38;La Buisse;24,13;23,56;12,06;LUG
+38;La Buissière;25,1;25,73;16,74;LUD
+38;Burcin;19,02;33,44;14,1;LUD
+38;Cessieu;13,88;19,13;20,05;LFN
+38;Châbons;20,43;23,16;15,56;LUD
+38;Chalon;18,05;25,56;30,83;LFN
+38;Chamagnieu;16,14;27,43;22,11;LUD
+38;Champagnier;26,48;25,25;12,42;LUG
+38;Champier;14,68;20,13;20,86;LFN
+38;Le Champ-près-Froges;23,9;20,44;15,41;LUG
+38;Champ-sur-Drac;24,16;12,16;18,65;LUG
+38;Chanas;13,6;21,11;18,89;LUD
+38;Chantelouve;23,23;26,26;15,15;LUD
+38;Chantesse;26,44;22,61;16,48;LUG
+38;Chapareillan;23,23;22,7;16,59;LUG
+38;La Chapelle-de-la-Tour;19,05;22,63;22,47;LUD
+38;La Chapelle-de-Surieu;20,31;17,6;26,89;LFN
+38;La Chapelle-du-Bard;30,5;14,45;10,32;LUG
+38;Charancieu;19,23;23,72;17,31;LUD
+38;Charantonnay;17,82;20,01;23,75;LFN
+38;Charavines;18,1;19,83;17,87;LUD
+38;Charette;17,1;18,71;24,19;LFN
+38;Charnècles;20,07;23,67;14,74;LUD
+38;Charvieu-Chavagneux;12,38;13,69;17,46;LFN
+38;Chasselay;17,02;20,06;16,72;LUD
+38;Chasse-sur-Rhône;19,39;15,82;15,91;LUG
+38;Chassignieu;18,23;21,35;15,1;LUD
+38;Château-Bernard;27,9;25,36;14,86;LUG
+38;Châteauvilain;21,85;22,22;18,08;LUD
+38;Châtelus;19,75;16,05;29,63;LFN
+38;Châtenay;22,49;19,45;14,59;LUG
+38;Châtonnay;13,86;19,61;20,55;LFN
+38;Chatte;18,88;20,68;16,31;LUD
+38;Chavanoz;16,08;16,08;18,72;LFN
+38;Chélieu;17,93;19,22;22,74;LFN
+38;Chevrières;20,25;23,62;17,76;LUD
+38;Le Cheylas;23,34;14,28;13,12;LUG
+38;Cheyssieu;21,61;13,43;17,65;LUG
+38;Chèzeneuve;19,85;30,77;19,6;LUD
+38;Chichilianne;31,87;27,11;9,52;LUG
+38;Chimilin;17,07;14,27;22,57;LFN
+38;Chirens;21,46;19,29;13,9;LUG
+38;Cholonge;22,02;20,22;18,77;LUG
+38;Chonas-l'Amballan;17,23;22,87;19,4;LUD
+38;Choranche;21,67;22,5;25;LFN
+38;Chozeau;17,99;26,71;15,84;LUD
+38;Chuzelles;17,35;21,4;20,25;LUD
+38;Claix;25,15;23,95;11,42;LUG
+38;Clavans-en-Haut-Oisans;21,99;25,53;11,35;LUD
+38;Clelles;21,56;28,89;13,33;LUD
+38;Clonas-sur-Varèze;21,97;19,66;16,22;LUG
+38;Saint-Martin-de-la-Cluze;27,11;20,24;18,07;LUG
+38;Cognet;25;4,55;15,91;LUG
+38;Cognin-les-Gorges;26,68;17,44;17,23;LUG
+38;Colombe;21,83;23,37;17,81;LUD
+38;La Combe-de-Lancey;27,9;22,36;11,44;LUG
+38;Commelle;14,37;17,04;20,59;LFN
+38;Corbelin;14,54;20,1;18,78;LUD
+38;Cordéac;22,75;27,01;12,8;LUD
+38;Corenc;23,18;32,07;6,27;LUD
+38;Cornillon-en-Trièves;41,03;14,74;9,62;LUG
+38;Corps;25,56;25,56;13,53;A
+38;Corrençon-en-Vercors;18,13;33,04;9,06;LUD
+38;La Côte-Saint-André;17,27;22,11;12,07;LUD
+38;Les Côtes-d'Arey;20,37;25,34;16,15;LUD
+38;Les Côtes-de-Corps;25,93;15,74;9,26;LUG
+38;Coublevie;26,96;24,9;9,34;LUG
+38;Cour-et-Buis;18,49;20,65;21,11;LFN
+38;Courtenay;15,81;21,17;20,21;LUD
+38;Crachier;15,25;24,01;22,88;LUD
+38;Cras;26,2;15,02;24,28;LUG
+38;Crémieu;19,75;22,15;13,5;LUD
+38;Creys-Mépieu;13,03;25,97;21,36;LUD
+38;Crolles;31,58;20,69;9,2;LUG
+38;Culin;11,88;25,54;18,22;LUD
+38;Diémoz;17,14;17,97;19,78;LFN
+38;Dionay;19,64;18,75;21,43;LFN
+38;Dizimieu;19,68;19,68;20,04;LFN
+38;Doissin;16,03;23,65;17,3;LUD
+38;Dolomieu;15,95;20,08;20,67;LFN
+38;Domarin;19,03;22,76;17,12;LUD
+38;Domène;21,1;20,18;13,63;LUG
+38;Echirolles;24,74;12,92;12,77;LUG
+38;Eclose-Badinières;16,86;16,37;20,98;LFN
+38;Engins;34,38;20,05;7,55;LUG
+38;Entraigues;31,44;14,95;16,49;LUG
+38;Entre-deux-Guiers;18,06;21,81;16,58;LUD
+38;Les Eparres;16,77;16,77;19,31;LFN
+38;Estrablin;21,24;24,16;19,23;LUD
+38;Eybens;28,81;17,62;11,44;LUG
+38;Eydoche;18,92;23,72;20,12;LUD
+38;Eyzin-Pinet;18,66;25,06;19,47;LUD
+38;Faramans;13,79;25,43;21,12;LUD
+38;Faverges-de-la-Tour;23,67;16,86;23,08;LUG
+38;La Ferrière;26,89;26,89;9,66;A
+38;Fitilieu;16,87;17,47;20,99;LFN
+38;La Flachère;31,88;15,65;19,42;LUG
+38;Flachères;12,56;22,56;25,64;LFN
+38;Fontaine;25,05;12,17;13,14;LUG
+38;Fontanil-Cornillon;21,29;24,49;12,95;LUD
+38;La Forteresse;21,72;28,69;11,89;LUD
+38;Four;24,83;21,19;19,65;LUG
+38;Le Freney-d'Oisans;33,95;13,02;8,84;LUG
+38;La Frette;16,63;21,45;18,43;LUD
+38;Froges;22,72;14,94;14,9;LUG
+38;Frontonas;20,36;23,43;18,31;LUD
+38;La Garde;12,69;23,88;8,21;LUD
+38;Gières;26,42;18,95;11,06;LUG
+38;Gillonnay;19,57;24,02;19,57;LUD
+38;Goncelin;21,25;19,89;12,45;LUG
+38;Le Grand-Lemps;25,7;21,53;14,42;LUG
+38;Granieu;22,44;17,31;15,06;LUG
+38;Grenay;14,35;23;18,44;LUD
+38;Grenoble;29,67;15,49;6,77;LUG
+38;Gresse-en-Vercors;28,41;26,38;13,62;LUG
+38;Le Gua;24,9;16,28;15,72;LUG
+38;Herbeys;30,5;29,21;8,04;LUG
+38;Heyrieux;15,75;20,34;18,53;LUD
+38;Hières-sur-Amby;16,91;15,02;20,7;LFN
+38;Huez;11,42;33,23;11,67;LUD
+38;Hurtières;24,46;23,02;14,39;LUG
+38;L'Isle-d'Abeau;19,21;14,16;14,11;LUG
+38;Izeaux;18,78;18,71;16,72;LUG
+38;Izeron;20;15,21;19,32;LUG
+38;Janneyrias;13,21;23,77;20,58;LUD
+38;Jarcieu;22,85;21,2;19,43;LUG
+38;Jardin;22,01;26,06;18,08;LUD
+38;Jarrie;22,87;19,48;15,3;LUG
+38;Laffrey;19,49;28,43;21,09;LUD
+38;Lalley;28,57;23,65;9,36;LUG
+38;Lans-en-Vercors;30,25;21,42;8,56;LUG
+38;Laval;29,78;18,78;11,36;LUG
+38;Lavaldens;31,54;26,85;8,72;LUG
+38;Lavars;32,12;21,17;16,79;LUG
+38;Lentiol;21,23;22,91;18,99;LUD
+38;Leyrieu;18,66;17,31;23,03;LFN
+38;Lieudieu;15,26;12,85;27,31;LFN
+38;Livet-et-Gavet;18,73;10,84;19,43;LFN
+38;Longechenal;19,34;23,11;16,04;LUD
+38;Lumbin;27,39;23,48;9,11;LUG
+38;Luzinay;17,73;21,92;19,71;LUD
+38;Malleval;51,52;15,15;9,09;LUG
+38;Marcieu;22,78;22,78;17,72;A
+38;Marcilloles;16,62;18,68;18,53;LUD
+38;Marcollin;18,88;17,01;18,46;LUG
+38;Marnans;20,69;21,55;12,93;LUD
+38;Massieu;19,4;17,62;17,26;LUG
+38;Maubec;18,46;26,07;13,88;LUD
+38;Mayres-Savel;22,58;25,81;18,28;LUD
+38;Méaudre;25,41;25,41;9,55;A
+38;Mens;31,45;22,64;10,75;LUG
+38;Merlas;15,86;19,95;19,95;A
+38;Meylan;24,86;29,35;6,49;LUD
+38;Meyrié;22,94;23,82;16,25;LUD
+38;Meyrieu-les-Etangs;17,65;29,41;21,63;LUD
+38;Meyssiez;15,45;22,96;23,17;LFN
+38;Miribel-Lanchâtre;29,92;21,65;21,65;LUG
+38;Miribel-les-Echelles;21,81;16,9;14,06;LUG
+38;Mizoën;31,98;13,71;10,66;LUG
+38;Moidieu-Détourbe;16,83;18,95;22,35;LFN
+38;Moirans;22,56;17,44;13,14;LUG
+38;Moissieu-sur-Dolon;20,15;16,64;21,63;LFN
+38;Monestier-d'Ambel;17,14;22,86;17,14;LUD
+38;Monestier-de-Clermont;19,46;23,23;15,09;LUD
+38;Le Monestier-du-Percy;36,57;23,15;16,67;LUG
+38;Monsteroux-Milieu;19,13;16,78;18,46;LUG
+38;Montagne;22,33;15,35;21,4;LUG
+38;Montagnieu;14,21;24,4;25,34;LFN
+38;Montalieu-Vercieu;14,5;12,65;18,66;LFN
+38;Montaud;26,41;22,74;9,29;LUG
+38;Montbonnot-Saint-Martin;23,76;31,65;8,28;LUD
+38;Montcarra;24,18;23,08;21,43;LUG
+38;Montchaboud;33,09;24,82;12,23;LUG
+38;Mont-de-Lans;11,33;21,32;11,84;LUD
+38;Monteynard;20;13,04;23,48;LFN
+38;Montfalcon;22,11;31,58;13,68;LUD
+38;Montferrat;21,38;22,35;17,27;LUD
+38;Montrevel;12,98;23,3;28,32;LFN
+38;Mont-Saint-Martin;43,56;13,86;4,95;LUG
+38;Montseveroux;22,22;15,3;19,62;LUG
+38;Moras;19,13;19,37;24,46;LFN
+38;Morestel;13,89;21,69;17;LUD
+38;Morêtel-de-Mailles;24,92;15,32;15,32;LUG
+38;Morette;29,69;17,06;22,87;LUG
+38;La Morte;21,32;18,78;13,71;LUG
+38;La Motte-d'Aveillans;22,59;14,09;17,08;LUG
+38;La Motte-Saint-Martin;32,44;11,31;12,2;LUG
+38;Mottier;13,25;25,37;16,98;LUD
+38;Le Moutaret;25,89;22,84;12,18;LUG
+38;La Mure;16,94;20,71;14,27;LUD
+38;La Murette;25,45;26,64;10,56;LUD
+38;Murianette;21,37;21,83;21,83;A
+38;Murinais;21,64;18,69;17,05;LUG
+38;Nantes-en-Ratier;29,23;23,33;10,51;LUG
+38;Nantoin;16,09;24,66;18,23;LUD
+38;Serre-Nerpol;11,72;23,43;18,83;LUD
+38;Nivolas-Vermelle;20,13;23,58;15,84;LUD
+38;Notre-Dame-de-Commiers;20,1;13,57;20,1;A
+38;Notre-Dame-de-l'Osier;26,68;15,63;16,71;LUG
+38;Notre-Dame-de-Mésage;26,61;16,85;16,96;LUG
+38;Notre-Dame-de-Vaux;41,75;14,05;10,39;LUG
+38;Noyarey;22,65;20;13;LUG
+38;Optevoz;15,1;23,44;21,35;LUD
+38;Oris-en-Rattier;28,69;10,66;13,93;LUG
+38;Ornacieux;26,13;19,35;23,87;LUG
+38;Ornon;38,13;17,5;5;LUG
+38;Oulles;5,41;5,41;27,03;LFN
+38;Oyeu;18,74;20,84;15,94;LUD
+38;Oytier-Saint-Oblas;16,54;19,13;20,47;LFN
+38;Oz;32,09;19,78;10,45;LUG
+38;Pact;19,52;18;25,81;LFN
+38;Pajay;14,31;25,64;22,1;LUD
+38;Paladru;19,74;19,05;18,93;LUG
+38;Panissage;16,46;22,87;17,38;LUD
+38;Panossas;19,33;23,56;18,89;LUD
+38;Parmilieu;23,19;16,85;22,32;LUG
+38;Le Passage;19,83;29,24;16,64;LUD
+38;Passins;15,39;18,45;25,19;LFN
+38;Le Péage-de-Roussillon;18,68;13,44;12,72;LUG
+38;Pellafol;23,76;21,78;13,37;LUG
+38;Penol;9,44;35,31;16,78;LUD
+38;Percy;44,44;19,84;6,35;LUG
+38;Le Périer;28,39;16,77;14,19;LUG
+38;La Pierre;27,49;19,88;18,42;LUG
+38;Pierre-Châtel;24,76;14,38;15,75;LUG
+38;Le Pin;20,85;24,37;16,41;LUD
+38;Pinsot;33,51;12,04;12,57;LUG
+38;Pisieu;21,97;18,54;20,14;LUG
+38;Plan;26,04;23,08;23,67;LUG
+38;Poisat;37,4;18,98;7,53;LUG
+38;Poliénas;19,58;17,15;19,7;LFN
+38;Pommier-de-Beaurepaire;15,45;20,66;20,14;LUD
+38;Pommiers-la-Placette;27,4;20,33;10,89;LUG
+38;Ponsonnas;22,49;25,3;14,86;LUD
+38;Pontcharra;20,53;16,79;15,94;LUG
+38;Le Pont-de-Beauvoisin;19,61;21,4;16,23;LUD
+38;Pont-de-Chéruy;14,73;11,87;14,63;LUG
+38;Le Pont-de-Claix;20,7;11,42;13,21;LUG
+38;Pont-Evêque;16,72;15,39;12,12;LUG
+38;Pont-en-Royans;28,5;14,85;12,09;LUG
+38;Porcieu-Amblagnieu;13,02;17,58;20,96;LFN
+38;Prébois;28,83;26,38;7,36;LUG
+38;Presles;22,22;23,33;13,33;LUD
+38;Pressins;18,5;18,96;21,23;LFN
+38;Primarette;17,46;18,6;24,31;LFN
+38;Proveysieux;33,82;19,57;11,11;LUG
+38;Prunières;26,81;16,3;18,84;LUG
+38;Quaix-en-Chartreuse;32,17;22,79;10,59;LUG
+38;Quet-en-Beaumont;22,78;16,46;16,46;LUG
+38;Quincieu;15,91;15,91;25;LFN
+38;Réaumont;27,52;20,41;13,31;LUG
+38;Renage;25,48;15,33;13,02;LUG
+38;Rencurel;27,09;23,75;10,7;LUG
+38;Revel;32,63;18,99;11,02;LUG
+38;Revel-Tourdan;20,33;20,46;20,72;LFN
+38;Reventin-Vaugris;19,63;21,56;18,7;LUD
+38;Rives;20,96;15,8;13,2;LUG
+38;La Rivière;17,83;14,73;20,16;LFN
+38;Roche;16,61;21,68;20,53;LUD
+38;Les Roches-de-Condrieu;22,36;20,1;13,4;LUG
+38;Rochetoirin;19,84;18,71;25,48;LFN
+38;Roissard;24,77;17,29;19,63;LUG
+38;Romagnieu;16,08;22,38;20;LUD
+38;Roussillon;19,76;17,07;13,5;LUG
+38;Rovon;16,78;14,32;23,94;LFN
+38;Royas;20,43;25,81;18,64;LUD
+38;Roybon;15,28;31,91;11,8;LUD
+38;Ruy;16,5;24,69;16,34;LUD
+38;Sablons;19,09;16,6;21,21;LFN
+38;Sainte-Agnès;28,38;24,17;13,3;LUG
+38;Saint-Agnin-sur-Bion;14,69;21,4;23,25;LFN
+38;Saint-Alban-de-Roche;19,28;24,26;13,44;LUD
+38;Saint-Alban-du-Rhône;19,11;15,1;22,8;LFN
+38;Saint-Albin-de-Vaulserre;23,53;18,3;21,24;LUG
+38;Saint-Andéol;42,5;15;8,33;LUG
+38;Saint-André-en-Royans;31,83;22,49;12,11;LUG
+38;Saint-André-le-Gaz;19,84;17,22;18,93;LUG
+38;Sainte-Anne-sur-Gervonde;17,43;24,45;18,84;LUD
+38;Saint-Antoine-l'Abbaye;26,71;20,7;10,59;LUG
+38;Saint-Appolinard;16,83;24,44;20,32;LUD
+38;Saint-Arey;34,67;22,67;10,67;LUG
+38;Saint-Aupre;22,35;26,68;15,85;LUD
+38;Saint-Barthélemy;17,96;18,42;17,34;LUD
+38;Saint-Barthélemy-de-Séchilienne;26,15;12,13;18,33;LUG
+38;Saint-Baudille-de-la-Tour;17,66;15,62;23,26;LFN
+38;Saint-Baudille-et-Pipet;28,19;26,64;11,58;LUG
+38;Saint-Bernard;35,71;14,09;6,35;LUG
+38;Saint-Blaise-du-Buis;22,93;23,77;14,35;LUD
+38;Sainte-Blandine;16,21;23,19;21,34;LUD
+38;Saint-Bonnet-de-Chavagne;20,79;22,68;16,45;LUD
+38;Saint-Bueil;18,3;19,33;18,71;LUD
+38;Saint-Cassien;20,54;28,22;16,93;LUD
+38;Saint-Chef;16,13;19,15;18,56;LUD
+38;Saint-Christophe-en-Oisans;20,77;13,08;10;LUG
+38;Saint-Christophe-sur-Guiers;23,09;18,17;20,37;LUG
+38;Saint-Clair-de-la-Tour;18,22;15,61;21,01;LFN
+38;Saint-Clair-du-Rhône;16,6;17,72;16,93;LUD
+38;Saint-Clair-sur-Galaure;13,5;32;20,5;LUD
+38;Saint-Didier-de-Bizonnes;17,77;14,72;24,87;LFN
+38;Saint-Didier-de-la-Tour;15,75;18,11;20,47;LFN
+38;Saint-Egrève;27,87;18,12;8,96;LUG
+38;Saint-Etienne-de-Crossey;28,01;22,31;11,45;LUG
+38;Saint-Etienne-de-Saint-Geoirs;15,98;28,02;15,89;LUD
+38;Saint-Geoire-en-Valdaine;16,68;20,01;17,13;LUD
+38;Saint-Geoirs;15,94;31,11;14,91;LUD
+38;Saint-Georges-de-Commiers;21,16;17,62;16,83;LUG
+38;Saint-Georges-d'Espéranche;16,03;21,23;19,11;LUD
+38;Saint-Gervais;16,35;16,35;16,59;LFN
+38;Saint-Guillaume;25,5;33;15;LUD
+38;Saint-Hilaire-de-Brens;20,62;24,83;16,85;LUD
+38;Saint-Hilaire-de-la-Côte;21,33;20,27;14,49;LUG
+38;Saint-Hilaire-du-Rosier;17,74;19,06;17,23;LUD
+38;Saint-Hilaire;36,06;10,89;6,97;LUG
+38;Saint-Honoré;22,86;20,48;17,94;LUG
+38;Saint-Ismier;22,31;32,43;8,07;LUD
+38;Saint-Jean-d'Avelanne;17,27;20,56;18,59;LUD
+38;Saint-Jean-de-Bournay;17,51;23,18;19,42;LUD
+38;Saint-Jean-de-Moirans;26,7;21,66;10,93;LUG
+38;Saint-Jean-de-Soudain;16,83;21,29;19,7;LUD
+38;Saint-Jean-de-Vaulx;34,72;12,88;11,35;LUG
+38;Saint-Jean-d'Hérans;32,99;15,28;12,5;LUG
+38;Saint-Jean-le-Vieux;25,62;30,54;14,29;LUD
+38;Saint-Joseph-de-Rivière;25,85;17,45;14,57;LUG
+38;Saint-Julien-de-l'Herms;20,18;20,18;15,6;A
+38;Saint-Julien-de-Ratz;29,94;20,93;14,24;LUG
+38;Saint-Just-Chaleyssin;16,17;24,43;17,21;LUD
+38;Saint-Just-de-Claix;18,4;14,03;20,4;LFN
+38;Saint-Lattier;19,01;18,8;18,59;LUG
+38;Saint-Laurent-du-Pont;20,87;18,36;15,48;LUG
+38;Saint-Laurent-en-Beaumont;22,99;18,45;19,25;LUG
+38;Sainte-Luce;30;18;10;LUG
+38;Saint-Marcel-Bel-Accueil;24,4;26,62;15,21;LUD
+38;Saint-Marcellin;21,93;20,15;14,75;LUG
+38;Sainte-Marie-d'Alloix;27,25;19,42;18,84;LUG
+38;Sainte-Marie-du-Mont;33,97;20,51;14,1;LUG
+38;Saint-Martin-de-Clelles;31,97;23,81;11,56;LUG
+38;Saint-Martin-de-Vaulserre;24,12;15,35;20,61;LUG
+38;Saint-Martin-d'Hères;26,35;11,46;10,79;LUG
+38;Saint-Martin-d'Uriage;31,67;24,44;10,26;LUG
+38;Saint-Martin-le-Vinoux;25,15;14,91;7,73;LUG
+38;Saint-Maurice-en-Trièves;11,63;31,01;20,93;LUD
+38;Saint-Maurice-l'Exil;19,47;13,35;16,16;LUG
+38;Saint-Maximin;24,74;15,98;20,79;LUG
+38;Saint-Michel-de-Saint-Geoirs;23,04;28,11;13,36;LUD
+38;Saint-Michel-en-Beaumont;22,73;21,21;12,12;LUG
+38;Saint-Michel-les-Portes;28,95;20,61;7,46;LUG
+38;Saint-Mury-Monteymond;29,6;15,2;10,8;LUG
+38;Saint-Nazaire-les-Eymes;25,98;31,16;8,1;LUD
+38;Saint-Nicolas-de-Macherin;25,96;21,21;11,83;LUG
+38;Saint-Nizier-du-Moucherotte;32,28;20,16;7,81;LUG
+38;Saint-Ondras;18,28;19,82;13,66;LUD
+38;Saint-Pancrasse;41,89;10,03;8,26;LUG
+38;Saint-Paul-de-Varces;22,2;22,31;14,85;LUD
+38;Saint-Paul-d'Izeaux;18,22;13,75;15,99;LUG
+38;Saint-Paul-lès-Monestier;32,71;20,56;14,49;LUG
+38;Saint-Pierre-d'Allevard;25,2;15,66;13,92;LUG
+38;Saint-Pierre-de-Bressieux;20,1;32,41;10,75;LUD
+38;Saint-Pierre-de-Chartreuse;29,82;22,06;9,09;LUG
+38;Saint-Pierre-de-Chérennes;28,03;17,68;17,42;LUG
+38;Saint-Pierre-de-Méarotz;10,94;15,63;24,22;LFN
+38;Saint-Pierre-de-Mésage;24,81;17,04;19,81;LUG
+38;Saint-Pierre-d'Entremont;20,65;27,33;13,97;LUD
+38;Saint-Prim;17,29;21,33;17,87;LUD
+38;Saint-Quentin-Fallavier;21;15,76;18,52;LUG
+38;Saint-Quentin-sur-Isère;20,63;19,16;19,06;LUG
+38;Saint-Romain-de-Jalionas;13,84;21,34;23,47;LFN
+38;Saint-Romain-de-Surieu;20,27;21,93;20,27;LUD
+38;Saint-Romans;21,43;22,87;17,81;LUD
+38;Saint-Sauveur;17,95;17,87;19,73;LFN
+38;Saint-Savin;16,96;22,4;18,43;LUD
+38;Saint-Sébastien;38,22;14,22;8,44;LUG
+38;Saint-Siméon-de-Bressieux;16,61;19,6;14,44;LUD
+38;Saint-Sorlin-de-Morestel;15,7;18,16;24,89;LFN
+38;Saint-Sorlin-de-Vienne;18,81;24,92;22,73;LUD
+38;Saint-Sulpice-des-Rivoires;15,97;25,77;17,09;LUD
+38;Saint-Théoffrey;25,65;20,21;9,07;LUG
+38;Saint-Vérand;19,94;18,3;16,88;LUG
+38;Saint-Victor-de-Cessieu;14,64;19,52;23,51;LFN
+38;Saint-Victor-de-Morestel;16,99;16,88;17,34;LFN
+38;Saint-Vincent-de-Mercuze;24,96;24,2;9,44;LUG
+38;Salagnon;18,1;17;19,9;LFN
+38;Salaise-sur-Sanne;22,68;14,4;17,4;LUG
+38;La Salette-Fallavaux;23,85;17,43;20,18;LUG
+38;La Salle-en-Beaumont;23,18;16,2;17,32;LUG
+38;Le Sappey-en-Chartreuse;39,36;21,76;6,72;LUG
+38;Sarcenas;44,77;11,05;9,88;LUG
+38;Sardieu;14,35;23,63;21,52;LUD
+38;Sassenage;23,54;20,1;13,57;LUG
+38;Satolas-et-Bonce;14,02;21,18;21,75;LFN
+38;Savas-Mépin;14,55;23,8;23,14;LUD
+38;Séchilienne;24,24;10,61;17,08;LUG
+38;Semons;14,18;24,73;17,09;LUD
+38;Septème;14,8;19,26;21,59;LFN
+38;Sérézin-de-la-Tour;16,88;20,78;22,94;LFN
+38;Sermérieu;17,63;20,84;20,43;LUD
+38;Serpaize;25,06;18,89;21,5;LUG
+38;Seyssinet-Pariset;24,76;18,74;12,23;LUG
+38;Seyssins;29,22;25,44;10,71;LUG
+38;Seyssuel;21,26;28,23;12,37;LUD
+38;Siccieu-Saint-Julien-et-Carisieu;19,14;20,57;14,05;LUD
+38;Siévoz;34,26;18,52;12,04;LUG
+38;Sillans;18,05;23,07;16,73;LUD
+38;Sinard;32,78;18,16;8,56;LUG
+38;Soleymieu;14,65;20,1;23,34;LFN
+38;La Sône;18,1;19,43;16,78;LUD
+38;Sonnay;15,81;18,61;22,57;LFN
+38;Sousville;27,21;21,77;14,97;LUG
+38;Succieu;20,75;19,68;22,54;LFN
+38;Susville;21,8;10,96;14,01;LUG
+38;Têche;13,94;21,68;21,9;LFN
+38;Tencin;19,68;16,68;16,06;LUG
+38;La Terrasse;33,29;21;12,18;LUG
+38;Theys;28,67;23;14,62;LUG
+38;Thodure;20,14;24,6;17,29;LUD
+38;Tignieu-Jameyzieu;17,78;17,5;19,31;LFN
+38;Torchefelon;23,93;19,44;19,23;LUG
+38;La Tour-du-Pin;15,7;19,65;14,03;LUD
+38;Le Touvet;25,87;21,53;9,96;LUG
+38;Tramolé;18,52;25,51;17,9;LUD
+38;Treffort;21,62;27,03;12,97;LUD
+38;Tréminis;26,4;21,83;13,71;LUG
+38;Trept;15,14;22,13;21,27;LUD
+38;La Tronche;27,5;26,58;6,84;LUG
+38;Tullins;22,01;16,69;14,49;LUG
+38;Valbonnais;22,85;18,24;13,43;LUG
+38;Valencin;15,16;22,5;19,79;LUD
+38;Valencogne;15,03;20,84;19,84;LUD
+38;La Valette;50;14,06;9,38;LUG
+38;Valjouffrey;25,94;11,32;13,21;LUG
+38;Varacieux;17,91;20,59;21,02;LFN
+38;Varces-Allières-et-Risset;19,82;20,44;15,42;LUD
+38;Vasselin;13,03;23,13;22,8;LUD
+38;Vatilieu;24,84;23,9;17,61;LUG
+38;Vaujany;20,57;24,64;10,29;LUD
+38;Vaulnaveys-le-Bas;23,91;18,89;17,72;LUG
+38;Vaulnaveys-le-Haut;23,32;22,22;12,62;LUG
+38;Vaulx-Milieu;19,91;21;17,56;LUD
+38;Velanne;19,31;16,58;17,57;LUG
+38;Vénérieu;18,53;19,66;20,79;LFN
+38;Venon;33,5;24,84;8,66;LUG
+38;Vénosc;13,85;19,75;8,64;LUD
+38;Vernas;21,28;20,74;17,55;LUG
+38;Vernioz;22,73;18,37;18,94;LUG
+38;La Verpillière;18,47;18,87;16,53;LUD
+38;Le Versoud;26,63;18,71;13,28;LUG
+38;Vertrieu;19,82;18,69;25,9;LFN
+38;Veurey-Voroize;24,6;23,17;16,14;LUG
+38;Veyrins-Thuellin;15,31;20,26;21,07;LFN
+38;Veyssilieu;22,07;18,97;19,66;LUG
+38;Vézeronce-Curtin;13,28;18,92;20,97;LFN
+38;Vienne;21,01;23,05;9,52;LUD
+38;Vif;19,85;18,95;16,45;LUG
+38;Vignieu;15,45;21,68;23,04;LFN
+38;Villard-Bonnot;22,59;13,86;13,35;LUG
+38;Villard-de-Lans;21,98;26,77;9,9;LUD
+38;Villard-Notre-Dame;30;20;7,5;LUG
+38;Villard-Reculas;32,43;21,62;5,41;LUG
+38;Villard-Reymond;35,71;23,81;0;LUG
+38;Villard-Saint-Christophe;29,1;19,81;13,93;LUG
+38;Villefontaine;20,68;12,22;12,17;LUG
+38;Villemoirieu;15,91;26,26;18,34;LUD
+38;Villeneuve-de-Marc;16,63;20,05;22;LFN
+38;Ville-sous-Anjou;17,7;19,13;20,22;LFN
+38;Villette-d'Anthon;12,91;23,36;20,56;LUD
+38;Villette-de-Vienne;20,14;23,81;19,07;LUD
+38;Vinay;17,51;20,98;16,58;LUD
+38;Virieu;22,44;16,4;14,96;LUG
+38;Viriville;17,55;18,71;16,47;LUD
+38;Vizille;22,21;12,88;15,34;LUG
+38;Voiron;22,1;21,85;9,63;LUG
+38;Voissant;15,76;22,28;14,67;LUD
+38;Voreppe;26,11;23,36;12,39;LUG
+38;Vourey;26,02;20,31;12,08;LUG
+38;Chamrousse;19,06;29,55;13,7;LUD
