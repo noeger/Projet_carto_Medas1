@@ -1,0 +1,70 @@
+
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Mar 14 21:53:44 2021
+
+@author: noe
+"""
+import pandas as pd
+
+data = pd.read_csv("/Users/noe/Desktop/CNAM/Carto/Projet géo/Isère politiuqe/IsereconnexionFull.csv", sep = ";")
+
+
+"""pour la techno utilisée"""
+"""
+newData = pd.DataFrame(columns = ["code Ville", "Techno"])
+
+print(data.head())
+
+for i in data["CODE_INSEE"].unique() :
+    
+    currentVille = data[data["CODE_INSEE"] == i]
+    currentTech  = currentVille['code_techno'].value_counts().idxmax()
+    
+    newRow = {"code Ville" : i, "Techno" : currentTech}
+    newData = newData.append(newRow, ignore_index=True)
+    
+#print(data['code_techno'].value_counts().idxmax())
+print(newData.head())
+
+newData.to_csv("/Users/noe/Desktop/CNAM/Carto/Projet géo/Isereconnexion.csv", sep = ";")
+"""
+
+"""pour le débit"""
+
+newData = pd.DataFrame(columns = ["code Ville", "pourcentage_bas_debit"])
+
+
+for i in data["CODE_INSEE"].unique() :
+    
+    currentVille = data[data["CODE_INSEE"] == i]
+    debits       = currentVille['classe_debit_descendant'].value_counts()
+    nb_bas_debit = 0
+    
+    if "INEL" in debits.index :
+        nb_bas_debit += debits["INEL"]
+    
+    if "HD05" in debits.index :
+        nb_bas_debit += debits["HD05"]
+    
+    nb_lignes = currentVille.shape[0]
+    pourcentage = nb_bas_debit/nb_lignes*100
+    
+    newRow = {"code Ville" : i, "pourcentage_bas_debit" : int(round(pourcentage))}
+
+    newData = newData.append(newRow, ignore_index=True)
+
+#print(data['code_techno'].value_counts().idxmax())
+print(newData.shape[0])
+print(newData.head())
+print(type(newData["code Ville"][0]))
+
+newData.to_csv("/Users/noe/Desktop/CNAM/Carto/Projet géo/IsereconnexionDebit.csv", sep = ";")
+
+
+
+
+
+
+

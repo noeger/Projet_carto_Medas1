@@ -1,0 +1,49 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Mar 14 21:53:44 2021
+
+@author: noe
+"""
+import pandas as pd
+
+data = pd.read_csv("/Users/noe/Desktop/CNAM/Carto/Projet géo/IsereconnexionFull.csv", sep = ";")
+
+
+"""pour la techno utilisée"""
+"""
+newData = pd.DataFrame(columns = ["code Ville", "Techno"])
+
+print(data.head())
+
+for i in data["CODE_INSEE"].unique() :
+    
+    currentVille = data[data["CODE_INSEE"] == i]
+    currentTech  = currentVille['code_techno'].value_counts().idxmax()
+    
+    newRow = {"code Ville" : i, "Techno" : currentTech}
+    newData = newData.append(newRow, ignore_index=True)
+    
+#print(data['code_techno'].value_counts().idxmax())
+print(newData.head())
+
+newData.to_csv("/Users/noe/Desktop/CNAM/Carto/Projet géo/Isereconnexion.csv", sep = ";")
+"""
+
+"""pour le débit"""
+
+newData = pd.DataFrame(columns = ["code Ville", "classe_debit_descendant"])
+
+
+for i in data["CODE_INSEE"].unique() :
+    
+    currentVille = data[data["CODE_INSEE"] == i]
+    currentDeb  = currentVille['classe_debit_descendant'].value_counts().idxmax()
+    
+    newRow = {"code Ville" : i, "classe_debit_descendant" : currentDeb}
+    newData = newData.append(newRow, ignore_index=True)
+    
+#print(data['code_techno'].value_counts().idxmax())
+print(newData.head())
+
+newData.to_csv("/Users/noe/Desktop/CNAM/Carto/Projet géo/IsereconnexionDebit.csv", sep = ";")
