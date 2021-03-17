@@ -1,0 +1,15 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Mar 16 13:19:44 2021
+
+@author: noe
+"""
+import pandas as pd
+
+grenoble  = pd.read_csv("/Users/noe/Desktop/CNAM/Carto/Projet géo/Grenoble Politique/Grenoble bâti.csv", sep = ";")
+print(grenoble.keys())
+connexion = pd.read_csv("/Users/noe/Desktop/CNAM/Carto/Projet géo/Auvergne-Rhone-Alpes_Base_Eligibilite_20210115.csv")
+print(connexion.keys())
+merged = grenoble.merge(connexion, on='addr_code')
+merged.to_csv("/Users/noe/Desktop/CNAM/Carto/Projet géo/Grenoble Politique/Grenoble_eligibilité.csv", index=False)
